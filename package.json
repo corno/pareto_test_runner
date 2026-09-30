@@ -1,0 +1,11 @@
+{
+  "name": "test-runner",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node run_tests.js"
+  },
+  "dependencies": {
+    "c8": "^10.1.2"
+  }
+}
